@@ -1,0 +1,15 @@
+D:\__portfolio__\helloworld\bin\Release\net7.0\helloworld.exe
+D:\__portfolio__\helloworld\bin\Release\net7.0\helloworld.deps.json
+D:\__portfolio__\helloworld\bin\Release\net7.0\helloworld.runtimeconfig.json
+D:\__portfolio__\helloworld\bin\Release\net7.0\helloworld.dll
+D:\__portfolio__\helloworld\bin\Release\net7.0\helloworld.pdb
+D:\__portfolio__\helloworld\obj\Release\net7.0\helloworld.csproj.AssemblyReference.cache
+D:\__portfolio__\helloworld\obj\Release\net7.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\__portfolio__\helloworld\obj\Release\net7.0\helloworld.AssemblyInfoInputs.cache
+D:\__portfolio__\helloworld\obj\Release\net7.0\helloworld.AssemblyInfo.cs
+D:\__portfolio__\helloworld\obj\Release\net7.0\helloworld.csproj.CoreCompileInputs.cache
+D:\__portfolio__\helloworld\obj\Release\net7.0\helloworld.dll
+D:\__portfolio__\helloworld\obj\Release\net7.0\refint\helloworld.dll
+D:\__portfolio__\helloworld\obj\Release\net7.0\helloworld.pdb
+D:\__portfolio__\helloworld\obj\Release\net7.0\helloworld.genruntimeconfig.cache
+D:\__portfolio__\helloworld\obj\Release\net7.0\ref\helloworld.dll

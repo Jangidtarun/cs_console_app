@@ -1,0 +1,5 @@
+D:\__portfolio__\helloworld\bin\Release\net7.0\publish\helloworld.exe
+D:\__portfolio__\helloworld\bin\Release\net7.0\publish\helloworld.dll
+D:\__portfolio__\helloworld\bin\Release\net7.0\publish\helloworld.deps.json
+D:\__portfolio__\helloworld\bin\Release\net7.0\publish\helloworld.runtimeconfig.json
+D:\__portfolio__\helloworld\bin\Release\net7.0\publish\helloworld.pdb
